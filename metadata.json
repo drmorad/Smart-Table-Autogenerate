@@ -1,0 +1,5 @@
+{
+  "name": "Smart Table Autocomplete",
+  "description": "An intelligent data compliance and simulation engine that autonomously populates tabular structures with realistic, context-aware data using Gemini models.",
+  "requestFramePermissions": []
+}
